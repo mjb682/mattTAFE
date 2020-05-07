@@ -78,6 +78,9 @@ ol
 ol li
 { margin: 0 0 11px 20px;}
 
+li {
+  color: #0AB3DF; }
+
 .left
 { float: left;
   width: auto;
